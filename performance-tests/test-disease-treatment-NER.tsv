@@ -1,0 +1,832 @@
+Named treatment	Test	Named disease	Test	Source	Link
+(125)I particles brachytherapy	pass	bladder cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435083
+(18)F-Fluorodeoxyglucose Positron Emission Tomography	pass	Adrenal Rest Tumor	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430117
+[Alert	fail	meningitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433138
+Deep anterior lamellar keratoplasty	pass	keratitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429293
+New Diagnostic Criteria	pass	Parkinson's Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433115
+@BBCr4today cancer treatment	fail	cancer	pass	twitter	https://t.co/rhEJ9KdF0s
+#apoptosis proteins	pass	cancer	pass	twitter	https://t.co/6gHUQ6x2BA
+#asthma therapy	fail	asthma	pass	twitter	https://t.co/fWFfRQlOZO
+#biopharma	pass	hemophilia a	pass	twitter	https://t.co/29GDhFH8CS
+#biotech Personalized Cancer Treatment	fail	Cancer	pass	twitter	https://t.co/EZco4fnid0
+#breastcancer surgery	pass	cancer	pass	twitter	https://t.co/0lTvTqw31D
+#breastcancer treatment	fail	cancer	fail	twitter	https://t.co/anFlXezcUu
+#breastcancer treatment	fail	breast cancer	pass	twitter	https://t.co/dgzelVjdAY
+#cancer immunotherapy	pass	cancer	pass	twitter	https://t.co/6hg42vlvXP
+#cancer therapy	fail	cancer	pass	twitter	https://t.co/Bmc9dTMjIz
+#cancer treatment	fail	cancer	pass	twitter	https://t.co/sx32SMfy7Z
+#cancer treatment	fail	cancer	pass	twitter	https://t.co/Ci6EFPbbBG
+#cancer treatment	fail	cancer	pass	twitter	https://t.co/mZNyhKKv1l
+#chemotherapy	pass	Cancer	pass	twitter	https://t.co/p4kBTpE4g3
+#FDAapproves	fail	cancer	pass	twitter	https://t.co/0pDzLqOVjX
+#fishoils	pass	obesity	pass	twitter	https://t.co/BPEPfQHeD2
+#immunotherapy	pass	head and neck cancer	pass	twitter	https://t.co/EOVCHwkRCC
+#radiation	pass	cancer	pass	twitter	https://t.co/PLTVH6t0NT
+18F-Fluorodeoxyglucose Positron Emission Tomography	pass	Deep Vein Thrombosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430130
+18F-Fluorodeoxyglucose Positron Emission Tomography-computed Tomography	pass	Vasculitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430115
+18F-Fluorodeoxyglucose Positron Emission Tomography/Computed Tomography	pass	Dementia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430124
+1st European Futsal Championship	pass	Down syndrome	pass	twitter	https://t.co/897eaKYJh8
+2 out of 3 Canadians	fail	blood cancer	pass	twitter	https://t.co/L4M4GX6p4k
+2016 Chinese guidelines	fail	dyslipidemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434622
+2016 SOSORT guidelines	fail	idiopathic scoliosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435499
+3 negative tests	fail	cervical cancer	pass	twitter	https://t.co/R2y0E8ugDf
+3.0T diffusion-weighted MRI	pass	uterine carcinosarcoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437265
+4-Hydroxybenzoic acid	pass	multiple system atrophy	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429647
+surgical robot	pass	cancer	fail	twitter	https://t.co/AljqE3XXGf
+9 yoga poses	pass	fibromyalgia	pass	twitter	https://t.co/iqSwnYJBoa
+A @MonashUni-led clinical trial	pass	prostate cancer	pass	twitter	https://t.co/BG6jnIBekZ
+a 2-step algorithm	pass	Clostridium difficile	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428547
+A blood test	pass	cancer	pass	twitter	https://t.co/xh1X1m8KVR
+A blood test	pass	cancer	pass	twitter	https://t.co/E08rpScWWc
+A blood test	pass	cancer	pass	twitter	https://t.co/0kZWwG1kX3
+A blood test	pass	cancer	pass	twitter	https://t.co/Al9pfNM26j
+A broad-range PCR technique	pass	infective endocarditis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429763
+a Cancer Vaccine	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436221
+A Chinese herb	pass	head and neck cancer	pass	twitter	https://t.co/ZeaBmMjyYj
+a diagnostic model	pass	central nervous system lymphoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438500
+a nanocarrier	pass	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433753
+a Natural Product Library	pass	Malaria	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436819
+A New Direction	fail	Parkinson's Disease	pass	twitter	https://t.co/KPD0yx6zpp
+A new drug	fail	hypertension	pass	twitter	https://t.co/L0ke0SwWmI
+a new multidirectional reach tool	pass	stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436087
+A New Paradigm	fail	Depression	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429869
+A new prediction model	fail	prostate cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437268
+A new SPECT/CT reconstruction algorithm	pass	bone disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435671
+a New Strategy	fail	Heart Defect	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437079
+a night	fail	cancer	pass	twitter	https://t.co/2iSch2eDao
+A Nonpharmacologic Therapy	pass	Asthma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433721
+a Novel	fail	Cytomegalovirus Infection	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434600
+a Novel Disease Management Program	pass	Gout	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438607
+a novel potential diagnostic biomarker	pass	liver cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435047
+a Novel Recombinant Protein	pass	Strongyloidiasis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436335
+a Novel Selective Estrogen Receptor Modulator	pass	Endometriosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434492
+a One-hour Algorithm	pass	Chest Pain	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432370
+a Personalized Model Predictive Control Algorithm	pass	Type 1 Diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431513
+a pharmacy team-led intervention program	pass	heart failure	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436465
+A polyamide	pass	stomatitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437970
+a poor prognostic marker	fail	lung cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430849
+a Prehospital Protocol Change	pass	asthma	pass	twitter	https://t.co/nhErZ7VUPa
+a primary healthcare quality improvement program	pass	diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435348
+A Prime-Boost Re-Vaccination Strategy	pass	Rheumatoid Arthritis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432051
+a prognostic biomarker	pass	esophageal cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428966
+a progression-associated long non-coding RNA signature	pass	lung squamous cell carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434705
+A research agenda	pass	chronic hepatitis B	pass	twitter	https://t.co/nB3GXnw29f
+a RNAi-based topical treatment	pass	psoriasis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431276
+a serum biomarker	pass	breast cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432428
+a Simple Algorithm	pass	Penicillin Allergy	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430947
+a telephone-based intervention	pass	diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435911
+a theory	fail	lung cancer	pass	twitter	https://t.co/xe6dzG7K1g
+a therapeutic target	fail	asthma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437149
+a therapeutic target gene	pass	ovarian cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434981
+a trans-cultural diabetes-specific nutrition algorithm	pass	type 2 diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435347
+a Tumor-Specific Epigenetic Biomarker	pass	Colorectal Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436791
+a universal blood test	pass	cancer	pass	twitter	https://t.co/nFbnznAx1h
+a vaccine	pass	influenza	pass	twitter	https://t.co/nEmeD07Bh5
+a vagina	fail	androgen insensitivity syndrome	pass	twitter	https://t.co/qgH56wfW0u
+a vulnerable substrate	fail	atrial fibrillation	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428663
+A1 Online elearning strategies	pass	dyslexia	pass	twitter	https://t.co/RyavWPnH7h
+acid	fail	ischemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434748
+Adalimumab	pass	Uveitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429764
+ademetionine	pass	intrahepatic cholestasis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431335
+adequate referrals	pass	chronic kidney disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429319
+adjuvant chemotherapy	pass	breast cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432980
+Adjuvant Treatment	pass	Calciphylaxis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430867
+adolescents' post-cancer treatment	pass	Cancer	pass	twitter	https://t.co/ZpJngrVHz8
+Adult Acute Lymphoblastic Leukemia Treatment	fail	Acute Lymphoblastic Leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/26389171
+Adult Acute Lymphoblastic Leukemia Treatment	fail	Acute Lymphoblastic Leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437330
+Advanced Accelerator's drug	pass	cancer	pass	twitter	https://t.co/ByTKBK7nNl
+advanced asthma therapies	pass	asthma	pass	twitter	https://t.co/MAzizqjyYz
+Advanced directives	fail	dementia	pass	twitter	https://t.co/1CsurTYfW7
+Advancements	fail	lymphoma	pass	twitter	https://t.co/mX9RtnCo8f
+Advaxis‚Äô Immunotherapy	pass	Anal Cancer	pass	twitter	https://t.co/qziTpXC5aA
+Agalsidase alfa	pass	Fabry disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437868
+AIDS-Related Lymphoma Treatment	pass	Lymphoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/26389186
+all gonadotropin-releasing hormone agonists	pass	prostate cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438592
+Allogeneic Matched Related Donor Bone Marrow Transplantation	pass	Aplastic Anemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432302
+Alpha	fail	lung disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430176
+alpha-lipoic acid	pass	brain ischemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432779
+AMP	pass	tuberculosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438524
+An anti-TL1A antibody	pass	inflammatory bowel disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436901
+an Antimicrobial Stewardship Team	pass	Infectious Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436317
+an evidence-based strategy	pass	Cancer	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433826
+an evidence-based telehealth cardiovascular disease risk reduction intervention	pass	vascular disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432589
+an Expanded Program	pass	Malaria	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432383
+an exposure provocation test	pass	contact dermatitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430707
+An eye	fail	cataract	pass	twitter	https://t.co/VkR102Z4EM
+an independent prognostic biomarker	pass	epithelial tumor	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435030
+Androgen receptor	pass	prostate cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436611
+Anechoic Area Patterns	pass	Pleomorphic Adenoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434491
+Anlotinib	pass	lung cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438373
+anthracycline	pass	breast cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429038
+Anti CD-4 mAb	pass	Type 1 diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430979
+Anti-EGFR Therapy	pass	Adenocarcinoma	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438094
+anti-PD-1 therapy	pass	gastric cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433469
+anti-PD-L1/PD-1 immunotherapy	pass	lung cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435295
+Antibiotic Prophylaxis	pass	Sickle Cell Anemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437860
+antibody	pass	bladder cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433309
+Anticancer Therapy	pass	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431085
+antidepressant augmentation	pass	schizophrenia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431197
+antiepileptic drugs	pass	epilepsy	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429909
+Antimicrobial Therapy	pass	Aspiration Pneumonitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438467
+Antiplatelet therapy	pass	stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436121
+Apatinib	pass	gastric cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428665
+aPD1 inhibitors	pass	melanoma	pass	twitter	https://t.co/SCwBBlvCpJ
+apoptosis	fail	colorectal cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438179
+apoptosis	fail	osteosarcoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434958
+Applied Neuroplasticity	pass	Parkinson's Disease	pass	twitter	https://t.co/DfvxRsOiOR
+Appropriate pain medicine treatment	pass	chronic pain	pass	twitter	https://t.co/wNvXbFVOhv
+Appropriate Surveillance	pass	Barrett's Esophagus	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432922
+Aqua-Lymphatic Therapy	pass	Lymphedema	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432065
+arc therapy	pass	cervical cancer	pass	twitter	https://t.co/Ob73Yx7O5m
+artificial molecules	pass	cancer	pass	twitter	https://t.co/qKuuIWbyRV
+artificial molecules Researchers	pass	cancer	pass	twitter	https://t.co/doM2UuQNH9
+Artificial Saliva	pass	Xerophthalmia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432648
+aspiration therapy	pass	obesity	pass	twitter	https://t.co/7y2LpNEP45
+Atrial Fibrillation Post Cardiac Surgery	pass	Atrial Fibrillation	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428624
+autophagy	fail	colorectal cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434757
+axis	fail	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433681
+AZD3759	pass	lung cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430654
+B Cell Lymphoma Immunotherapy	pass	Lymphoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433938
+B-D-glucan	pass	candidiasis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432826
+B1	fail	hepatocellular carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432732
+Bariatric surgery	pass	Obesity	pass	twitter	https://t.co/eORSwZFe51
+baseline biopsies	pass	prostate cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438586
+BCR-ABL1 tyrosine kinase inhibitors	pass	leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431866
+behavioral cough suppression therapy	pass	cough	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430939
+best treatment	fail	gonorrhea	pass	twitter	https://t.co/Wwl9S3bLDY
+Beta Blockers	pass	Hypertension	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431972
+Better Cancer Immunotherapy Models	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431673
+BGB-3111	pass	Macroglobulinemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439186
+bibliotherapy	pass	anxiety disorders in children	pass	twitter	https://t.co/ruduWCtstF
+bill	fail	autism spectrum disorder	pass	twitter	https://t.co/ejv2NMlpE4
+Biomarker	pass	autism spectrum disorder	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436853
+biotechnology Statement calls	pass	dementia	pass	twitter	https://t.co/YA5bWXIllu
+bisoprolol	pass	Hypertension	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433578
+Blood eosinophils	pass	asthma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437007
+bone disease treatment	pass	multiple myeloma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429912
+Bone Marrow Cell Therapy	pass	Colon Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439258
+Botox	pass	Bruxism	pass	twitter	https://t.co/Eyvaqk9VAv
+botulinum toxin A.	pass	carotid artery dissection	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430719
+bovine lactoferrin	pass	osteonecrosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435826
+Braden Risk Factors	pass	Pressure Ulcers	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436796
+breast-conserving surgery	pass	breast cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435855
+Burlington Native Researching Immunotherapy	pass	Cancer	pass	twitter	https://t.co/VclQd3VWSG
+bypass surgery	pass	artery disease	pass	twitter	https://t.co/7Tkc6DYSXo
+caffeic acid	pass	skin carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436638
+Cancer	fail	Cancer	pass	twitter	https://t.co/X8gFl5dQfX
+Cancer	fail	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429151
+cancer #immunotherapy	pass	cancer	pass	twitter	https://t.co/k2sduAhuUs
+cancer chemotherapy	pass	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430414
+Cancer Screening Recommendations	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431971
+Cancer Targeted Therapy	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433143
+cancer therapies	pass	cancer	pass	twitter	https://t.co/cccEdmW4f3
+cancer therapy	fail	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434904
+Cancer Treatment	fail	Oral Cavity Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437343
+Cannabis	pass	epilepsy	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438649
+Capsaicin	pass	squamous cell carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436634
+CAR-modified T-cell therapy	pass	acute lymphoblastic leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434963
+carbon ion therapy	pass	sarcoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437879
+carcinoembryonic antigen	pass	malignant pleural effusion	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429254
+cardiac troponin T	pass	pulmonary embolism	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434803
+Cardiovascular Therapy	pass	Hypertension	pass	twitter	https://t.co/IJMry4wSoJ
+Carotid Artery Injection	pass	Brain Tumor	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438105
+catheter ablation	pass	atrial fibrillation	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435991
+CBT	pass	anxiety disorder	pass	twitter	https://t.co/DkKCa5uL8Y
+CD1a-positive langerin-negative cells	pass	histiocytosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430698
+Celebs	fail	eating disorder	pass	twitter	https://t.co/cc45ICqXCv
+cell researchers	fail	Prader-Willi syndrome	pass	twitter	https://t.co/f90HXiIOv1
+cell therapy	pass	cancer	pass	twitter	https://t.co/VYHWwi01i8
+cells	fail	cancer	pass	twitter	https://t.co/zi9kZqgwor
+cells	fail	cancer	pass	twitter	https://t.co/z4la4w8COl
+cells	fail	cancer	pass	twitter	https://t.co/xGYyxe5zy2
+central lymph node dissection	pass	papillary thyroid carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429179
+Channel Complementarity	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436966
+chemo	pass	brain tumor	pass	twitter	https://t.co/fcKdcFexI8
+Chemotherapy	pass	cancer	pass	twitter	https://t.co/ymlnq1PXtF
+chemotherapy	pass	breast cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433963
+chemotherapy	pass	retinoblastoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436917
+Childhood Thyroid Cancer Treatment	pass	Thyroid Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29337474
+Childhood Treatment	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/26389276
+chimeric	fail	nephrotic syndrome	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436729
+Chinese medicine	pass	premature ejaculation	pass	twitter	https://t.co/aujlkN0q8S
+cholera vaccines	pass	cholera	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439220
+chronic pain	fail	chronic pain	pass	twitter	https://t.co/YcB8OoBy9V
+cigarettes	fail	heart disease	pass	twitter	https://t.co/xIpsRb29sv
+Cilostazol	pass	cerebrovascular disease	pass	twitter	https://t.co/KNR8mm8kHB
+circulating biomarker score	pass	head and neck squamous cell carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428866
+circulating microRNAs	pass	liver cirrhosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435187
+Clinical Practice Guidelines	pass	Neoplasm	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439178
+clinical procedures	pass	back pain	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430049
+clinical trials	pass	Alzheimer's disease	pass	twitter	https://t.co/WJ8e8GmHrH
+Clinico-radiologic-pathologic criteria	pass	idiopathic pulmonary fibrosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429157
+Clipping treatment	pass	arteriosclerosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434749
+Cognitive behavioral therapy	pass	chronic pain	pass	twitter	https://t.co/f75QrUrXG7
+colistin	pass	klebsiella pneumonia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432869
+Combination Chemotherapy	pass	blastoma	pass	twitter	https://t.co/Ha1MdXWUqU
+Combination chemotherapy	pass	brain tumor	pass	twitter	https://t.co/VgLWOT7URP
+combination therapy	pass	rheumatoid arthritis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435359
+combined freeze-all embryos	pass	hypogonadotropic hypogonadism	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436143
+combo cancer treatments	pass	cancer	pass	twitter	https://t.co/iWmxRxAiaq
+commitment therapy	pass	eating disorder	pass	twitter	https://t.co/mprqzzO02m
+Common module analysis	pass	adrenocortical adenoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435068
+Compact Plasmonic Blackbody	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438610
+Complement C3a and C5a Receptors	pass	Hypertension	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437833
+Complementary Therapies	pass	Chronic Pain	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428928
+concurrent chemoradiotherapy	pass	esophageal carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434881
+Continent Urinary Diversions	fail	Bladder Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430511
+conventional and hypofractionated radiation treatment	pass	heart disease	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436171
+conventional cancer therapy	pass	cancer	pass	twitter	https://t.co/mBRFSdtdcg
+COPD school	pass	lung disease	pass	twitter	https://t.co/VPZDWDCOpj
+COPD school	pass	lung disease	pass	twitter	https://t.co/lOHvBaoUKD
+core biopsy	pass	granular cell tumor	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435023
+core decompression	pass	osteonecrosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435623
+coronary artery bypass graft surgery	pass	type 1 diabetes mellitus	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429414
+coronary artery bypass surgery	pass	hemophilia A	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439283
+Cranial Electrical Stimulation	pass	Chronic Pain	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435567
+Cranial Temperature	pass	Cardiac Arrest	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431591
+Craniovertebral Junction Meningioma Resection	pass	Meningioma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433183
+Croton Zehntneri	pass	asthma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437496
+curative resection	pass	hepatocellular carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434976
+Curcumin	pass	Premature Ovarian Failure	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437881
+cytoreductive surgery	pass	thrombocytopenia	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429054
+cytotoxic effect	pass	breast adenocarcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433206
+Dance Therapy	pass	Parkinson's Disease	pass	twitter	https://t.co/ZbilmrdoEN
+Daratumumab	pass	multiple myeloma	pass	twitter	https://t.co/xIuXPl5fkS
+daughter treatments	fail	cancer	pass	twitter	https://t.co/hak9DF9n7B
+DC	pass	asthma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432856
+deep brain stimulation	pass	neurological disorder	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431884
+definitive excision margins	pass	cutaneous melanoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438650
+Dendritic Cell #vaccines	pass	Cancer	pass	twitter	https://t.co/awkSAX5mXy
+Dendritic Cell Vaccines	pass	Cancer	pass	twitter	https://t.co/gGOBMVu0SI
+Denosumab	pass	bone disease	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429916
+depression	fail	depression	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433985
+determinants	fail	type 2 diabetes mellitus	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430192
+development	fail	hepatorenal syndrome	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432366
+dexamethasone	pass	multiple myeloma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435979
+Dexamethasone	pass	cataract	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434822
+Diabetes Pharmaceutical treatment	pass	Diabetes	fail	twitter	https://t.co/FwBIGhniaz]
+Diabetic retinopathy screening program	pass	Diabetic retinopathy	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430785
+diacylglycerol	pass	diabetic nephropathy	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434785
+diagnosis	pass	fetal alcohol spectrum disorder	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432031
+Diagnostic accuracy	fail	peripheral artery disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432708
+diagnostic and prognostic biomarkers	pass	hepatocellular carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435160
+Diet modifications	pass	chronic kidney disease	pass	twitter	https://t.co/iwn7jotd3f
+Dietary fiber	pass	obesity	pass	twitter	https://t.co/dOumPbu2L6
+Digital Health Technology	pass	Diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437481
+digital radiography	pass	idiopathic scoliosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435497
+Dihydroartemisinin treatment	pass	multiple myeloma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434974
+dipryone	pass	agranulocytosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436141
+Discovery	pass	allergic asthma	pass	twitter	https://t.co/IuBR5W4hKW
+distinct prognostic value	fail	oligodendroglial tumor	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434837
+dorsal	fail	arthropathy	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437062
+Doxycycline	pass	cerebral malaria	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438386
+Dr Bellmunt @DanaFarber reviews	fail	cancer	pass	twitter	https://t.co/1HpKEsyPFT
+Dr Valenzuela	fail	Rheumatic disease	pass	twitter	https://t.co/6mSDqY6nBk
+Dr. Heidi Byers Busch	fail	acne	pass	twitter	https://t.co/ywk5yq43gm
+Drug Treatment	pass	substance abuse	pass	twitter	https://t.co/ZkJOGfEesV
+drug-eluting beads	pass	hepatocellular carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434732
+Drug-Resistant Breast Cancer Therapy	pass	Breast Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436217
+dual-functional liposomes	pass	ovarian cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433357
+duodenal bulb biopsy	pass	celiac disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435875
+Durvalumab	pass	cancer	pass	twitter	https://t.co/lxHcitTnq7
+E1Œ≤	fail	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436427
+early intervention	pass	optic nerve sheath meningioma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430199
+early intervention	pass	Stevens-Johnson syndrome	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430697
+East Asia	fail	heart failure	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431285
+Edoxaban	pass	Lung Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434159
+Efficient Colon Cancer Adjunct Therapy	pass	Colon Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429370
+EGFR	pass	lung cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435131
+Electric scalp device	pass	brain tumor	pass	twitter	https://t.co/WyRD6NM3Go
+Electrical Nerve Stimulation	pass	Stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437598
+electroacupuncture	pass	Ganglion cyst	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430057
+Electroconvulsive Therapy	pass	Dementia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428406
+Electrodermal Activity	pass	Dementia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430245
+Electrophysiological Severity Scales	pass	Carpal Tunnel Syndrome	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434177
+elimination diets	pass	chronic pain	pass	twitter	https://t.co/ft90pmGVnx
+Emerging treatments	pass	breast cancer	pass	twitter	https://t.co/7P6dUzpAlk
+empiric treatment	pass	pneumonia	pass	twitter	https://t.co/mtJzwOGYZK
+Endoscopic Ultrasound-guided Drainage	pass	Pancreatitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434161
+endovascular stroke therapy	pass	stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435828
+Endovenous Laser Ablation	pass	Varicose Veins	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434428
+Enhanced detection services	pass	developmental dysplasia of the hip	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436408
+entecavir	pass	chronic hepatitis B	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438098
+enteral nutrition	pass	dementia	pass	twitter	https://t.co/hjsoxsqc6d
+esophagectomy	pass	esophageal cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435289
+essential genes	pass	cancer	pass	twitter	https://t.co/cNUDdcluHM
+Eucalyptus globulus	pass	Peritonitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433388
+Evidence-based clinical practice guidelines	pass	inflammatory bowel disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429045
+excision	pass	calcinosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430689
+Exercise	pass	Asthma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432326
+exosome #therapy	pass	heart disease	pass	twitter	https://t.co/VAwEnlLnOh
+experimental cancer treatments	pass	cancer	pass	twitter	https://t.co/mRhkQf7Pbw
+Expert counseling	pass	familial adenomatous polyposis	pass	twitter	https://t.co/3MgXZPxCX1
+Extracorporeal Membrane Oxygenation Support	pass	Pulmonary Veno-occlusive Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428338
+exUS rights	fail	blindness	pass	twitter	https://t.co/PspU958R1X
+Family-Based Treatment	pass	bulimia nervosa	pass	twitter	https://t.co/iq3lEOe43T
+FDA Approval Summary	fail	Multiple Myeloma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438096
+female sex and pregnancy hormones	pass	melanoma	pass	twitter	https://t.co/XdX6Mgbpjl
+fertility preservation	pass	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435699
+FEV1	pass	cystic fibrosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434047
+financial issues	fail	Hepatitis	pass	twitter	https://t.co/AkyuD8uYUN
+Finding Solutions	fail	Kidney Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436104
+Fingolimod	pass	Relapsing-Remitting Multiple Sclerosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431876
+First treatment	pass	breast cancer	pass	twitter	https://t.co/HXwWRPHZnY
+First-Line Treatment	pass	Prostate Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432079
+first-line treatment	fail	resectable hepatocellular carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433850
+five serum tumor markers	pass	cholangiocarcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438681
+fluoroquinolone therapy	pass	interstitial nephritis	pass	twitter	https://t.co/RwcjLqENId
+focal impulse	pass	atrial fibrillation	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436112
+four ultrasonography techniques	pass	mammary carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430763
+free rides	pass	cancer	pass	twitter	https://t.co/chTwL7KaJO
+functional magnetic resonance imaging	pass	tinnitus	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429190
+Furlow Palatoplasty	pass	Cleft Palate	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437520
+gamma interferon test accuracy	pass	bovine tuberculosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431048
+gastric cancer stem cells	fail	gastric cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435053
+Gastrointestinal Stromal Tumors Treatment	pass	Gastrointestinal Stromal Tumor	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/26389157
+Gastrointestinal Stromal Tumors Treatment	pass	Gastrointestinal Stromal Tumor	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437328
+Gastrointestinal ultrasound	pass	inflammatory bowel disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437914
+GATT	pass	glaucoma	pass	twitter	https://t.co/LjkNjb5Iy3
+Gene Therapy	pass	Adenosine Deaminase Deficiency	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433935
+gene therapy	pass	glaucoma	pass	twitter	https://t.co/f33bcvchHg
+general anaesthesia	pass	pre-eclampsia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432379
+Generic Cisplatin Formulations	pass	Head and Neck Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434483
+genomics	pass	cervical cancer	pass	twitter	https://t.co/8LrTsSPErB
+ginsenoside	pass	breast cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435015
+Ginsenoside Rb1	pass	Ischemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430282
+glioblastoma treatment	pass	blastoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429911
+Global Gene Therapy	pass	Krabbe's Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433937
+Good and Bad Diet	pass	Kidney Disease	pass	twitter	https://t.co/MUIVDy9y5N
+grant	fail	retinal disease	pass	twitter	https://t.co/4LJ5gtM2HR
+granulocyte-macrophage colony-stimulating factor	pass	lung carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435154
+GSK‚Äôs Relvar Ellipta asthma therapy	pass	asthma	pass	twitter	https://t.co/oLatmsIR3o
+gut microbiota	pass	Clostridium difficile	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428498
+Gut Microbiota	pass	Diarrhoea	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434646
+gynecological endoscopic surgery	pass	endometriosis	pass	twitter	https://t.co/p6moKveRMv
+HealthNews Teva's asthma treatment	pass	asthma	pass	twitter	https://t.co/V3u78ZBCtc
+Heart Transplantation	pass	Dilated Cardiomyopathy	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429930
+Hepatitis B Vaccination	pass	Hepatitis B	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434181
+her cancer patient treatment	fail	cancer	pass	twitter	https://t.co/KfWyxheBGV
+herbal medicines	pass	blastoma	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433556
+Herceptin Monotherapy	pass	oesophageal Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430233
+high antiproliferative activities	pass	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431824
+high-dose influenza vaccines	pass	influenza	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438483
+highly individualized radiotherapy dose reconstruction	pass	cancer	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430662
+HIV care	pass	tuberculosis	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437750
+Holst	fail	Ebstein anomaly	pass	twitter	https://t.co/bEcaCM6hF0
+Honorine's cataract surgery	pass	cataract	pass	twitter	https://t.co/SJYTN2JEUi
+Hormone Treatment	pass	Prostate Cancer	pass	twitter	https://t.co/XRmwNk4GnO
+Hospital Practice Patterns	pass	Pneumonia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438527
+Hospital-based surveillance	pass	diarrhea	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429811
+Hsp90 Inhibition Detected	pass	Breast Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437790
+hydroxysafflor	pass	ischemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438705
+hyperthermic intraperitoneal chemotherapy	pass	peritoneal mesothelioma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431036
+hypoxia-activated therapy	pass	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438880
+ICS	pass	Asthma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432960
+ICTC	pass	psoriasis	pass	twitter	https://t.co/hMq0DxARUF
+identification	fail	cervical cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435721
+Ileotransverse Anastomosis	pass	Typhoid	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430317
+Imiquimod	pass	Squamous Cell Carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431956
+Imiquimod	pass	Actinic Keratosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431961
+immediate-release carvedilol-IR	pass	Heart Failure	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433525
+Immune Intervention	pass	Type 1 Diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437480
+Immunotherapy	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434605
+immunotherapy	pass	Cancer	pass	twitter	https://t.co/weqD0bhTXb
+immunotherapy	pass	cancer	pass	twitter	https://t.co/XdJSHX1cPm
+Immunotherapy	pass	Merkel Cell Carcinoma	pass	twitter	https://t.co/HxoyKurPis
+Improvement	fail	Diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436251
+induction chemotherapy	pass	acute lymphoblastic leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429058
+information	pass	lung cancer	pass	twitter	https://t.co/ccMUA19xr0
+Inhalant	pass	heart disease	pass	twitter	https://t.co/6aSR60Rkpg
+intense pulsed light treatment	pass	eye disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429299
+intensive care	pass	benign paroxysmal positional vertigo	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437815
+Intensive weight management	pass	type 2 diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431614
+Interesting modeling study	pass	breast cancer	pass	twitter	https://t.co/bwDviu89nt
+Intra-arterial interventional therapy	pass	breast cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434896
+intra-articular fracture	fail	osteoarthritis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437147
+intravenous thrombolysis	pass	stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438871
+IONIS-PTP-1B(Rx	pass	Type 2 Diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439147
+IPS	pass	chronic pain	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433493
+IRF3	pass	gastric cancer	pass	twitter	https://t.co/OWzv5bbwUE
+Ischemic	fail	Cardiomyopathy	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430112
+kilovoltage-megavoltage cone-beam CT	pass	lung cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429610
+Kiwi compound	pass	non-alcoholic fatty liver disease	pass	twitter	https://t.co/AWO8XzVoEK
+Kiwi compound	pass	non-alcoholic fatty liver disease	pass	twitter	https://t.co/hPOdZxoTdV
+L.	fail	diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433251
+L.	fail	skin inflammation	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429001
+lacosamide	pass	status epilepticus	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428899
+Lactate Level Versus Lactate Clearance	pass	Septic Shock	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432347
+Laryngeal Cancer Treatment	pass	Cancer	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437333
+laser	pass	twin-to-twin transfusion syndrome	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436718
+laser therapy	pass	plantar fasciitis	pass	twitter	https://t.co/iNQT4DbyKF
+late cancer treatment	pass	cancer	pass	twitter	https://t.co/7v2qDWpru5
+laxatives	pass	constipation	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429768
+lentinan	pass	hepatoblastoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434900
+Levetiracetam	pass	Epilepsy	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435578
+levodopa / carbidopa	pass	Parkinson's disease	pass	twitter	https://t.co/nHIC3jR2Qy
+Life	fail	Stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439194
+long non-coding RNA	pass	gastric cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428732
+long-term care	pass	dementia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438597
+lymphocyte	fail	Crohn's disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435759
+magnetic nanoparticles	pass	cancer	pass	twitter	https://t.co/6drCcJydBu
+magnetic resonance imaging	pass	Crohn's disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434453
+magnetic resonance imaging	pass	mammary duct ectasia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434865
+Magnetic Resonance Imaging	pass	Pulmonary Hypertension	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435739
+magnetic resonance imaging	pass	ischemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436246
+MAL cream	pass	basal cell carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432644
+manual acne therapy	pass	acne	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431906
+matrine	pass	liver cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434874
+Maximal Surgical Resection	pass	blastoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436186
+Mechanical Circulatory Support	pass	Heart Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436022
+medical therapy	pass	myoma	pass	twitter	https://t.co/N7S4sMxId8
+Medical treatment	pass	hidradenitis	pass	twitter	https://t.co/sB7fswPdzK
+medicine	pass	common cold	pass	twitter	https://t.co/rioYvEek1X
+MEF2C phosphorylation	pass	acute myeloid leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431698
+Melatonin	pass	hyperglycemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437243
+metabolic surgery	pass	diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435812
+MH84	pass	Alzheimer's disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433569
+microRNA-219	pass	Demyelinating Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433936
+migraine abortion treatment	pass	migraine	pass	twitter	https://t.co/q3VhhtaZ7D
+Mike Hennessy	fail	head and neck cancer	pass	twitter	https://t.co/ORPF9r67Kf
+Mini Laparotomy	pass	Volvulus	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435626
+Mitochondrial protein S-nitrosation	pass	ischemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432799
+mitoxantrone	pass	acute myeloid leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437791
+modern medicine	pass	cancer	pass	twitter	https://t.co/jPXaguZlOl
+Molecular Docking studies	pass	Schizophrenia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436999
+Molecular Imaging	pass	Neuroendocrine Tumor	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432346
+molecular studies	pass	Cancer	pass	twitter	https://t.co/4R6APncyDS
+molecular testing guideline	pass	lung cancer	pass	twitter	https://t.co/uwgWeS4sLF
+molecular therapy	pass	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434998
+Momordica charantia Administration	pass	Type 2 Diabetes Mellitus	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431598
+Monitoring Neoadjuvant Chemotherapy	pass	Breast Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431574
+Monoclonal Antibody	pass	Leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434597
+more experimental #cancer treatments	pass	cancer	pass	twitter	https://t.co/bJvVuSakpm
+more experimental cancer treatments	pass	cancer	pass	twitter	https://t.co/77fwLhQFGH
+more experimental cancer treatments	pass	cancer	pass	twitter	https://t.co/pF4wHYcgPM
+More research	pass	Lyme disease	pass	twitter	https://t.co/rATAx4R9vC
+MRI	pass	cancer	pass	twitter	https://t.co/lxdtc08WJd
+MS	pass	inborn errors of metabolism	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435781
+Multi-Modal Imaging	pass	Alzheimer's Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434570
+Multifocal Motor Neuropathy treatments	pass	Neuropathy	pass	twitter	https://t.co/IO07FuOVFp
+Multimodality treatment	pass	adenocarcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431018
+Music therapy	pass	cancer	pass	twitter	https://t.co/5sTV1wXK3S
+music therapy	pass	Dementia	pass	twitter	https://t.co/v4M6VZiQOS
+music therapy	pass	Dementia	pass	twitter	https://t.co/kkk0dwXete
+music therapy	pass	Dementia	pass	twitter	https://t.co/GGWk1MIlM2
+my big honking #cancer surgery	pass	cancer	pass	twitter	https://t.co/i3Ou8eA8Ze
+my breast cancer surgery	pass	breast cancer	pass	twitter	https://t.co/a9oaPH9TQV
+Myeloid-derived Suppressor Cells	pass	Heart Failure	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437117
+N-acetylcysteine	pass	ischemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434769
+Nab-Paclitaxel	pass	Idiopathic Interstitial Pneumonia	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434143
+Naltrexone	pass	Alcohol Dependence	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431852
+Narrow Band Imaging Magnifying Endoscopy	pass	Squamous Cell Carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435906
+Nasal High-Frequency Oscillatory Ventilation	pass	Gastroesophageal Reflux	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438810
+nasoalveolar molding therapy	pass	cleft lip	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436566
+natalizumab	pass	multiple sclerosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438041
+natalizumab	pass	multiple sclerosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438046
+Natural remedies	pass	tonsillitis	pass	twitter	https://t.co/AvZBhhc9DE
+natural treatments	pass	Alzheimer	pass	twitter	https://t.co/ShZnJArvnN
+NDC80	pass	malignant pleural mesothelioma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438360
+Near-Infrared Fluorescence Imaging	pass	Atherosclerosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435774
+neoadjuvant chemoradiotherapy	pass	rectal cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435147
+neoadjuvant chemotherapy	pass	breast cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439010
+neoadjuvant treatments	pass	esophageal cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433514
+neuroEPO	pass	Stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438293
+Neurological Music Therapy	pass	Parkinson's Disease	pass	twitter	https://t.co/5VsnmTiXJD
+Neuromodulation Strategies	pass	Obesity	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432784
+new #cancer treatments	pass	cancer	pass	twitter	https://t.co/JtzIo6Ullt
+New #cancer treatments	pass	cancer	pass	twitter	https://t.co/c7jDGX2pLE
+new combination therapy	pass	sarcoma	pass	twitter	https://t.co/4RaBhtqNiI
+New Guidelines	pass	Hypertension	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439296
+new innovative solution	pass	cancer	pass	twitter	https://t.co/TMxdPCEpMA
+New Medications	pass	Diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437472
+New nerve stimulation treatment	pass	sleep apnea	pass	twitter	https://t.co/gABhu3t2ZU
+New NHS guidelines	pass	breast cancer	pass	twitter	https://t.co/BrYzHLRwbU
+New photonic technique	pass	cancer	pass	twitter	https://t.co/sNUPA5NIJU
+new technique	fail	cancer	pass	twitter	https://t.co/hsaU5k9HNU
+New Therapy	fail	Lupus Nephritis	pass	twitter	https://t.co/YQOc9n5MLF
+New trial	pass	asthma	pass	twitter	https://t.co/4fOOishq8f
+Nintedanib effects	pass	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429524
+Nivolumab	pass	Lung Adenocarcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434118
+Nivolumab Treatment	pass	Myasthenia Gravis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434145
+no therapy	pass	cancer	fail	twitter	https://t.co/kGPZQNWQp7
+Non-VMAT2 inhibitor treatments	pass	dyskinesia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433806
+Novel Cancer Therapies	pass	cancer	pass	twitter	https://t.co/AjIDi9S6Br
+Novel therapies	pass	thyroid carcinoma	pass	twitter	https://t.co/uOY6bHYd1Y
+Occult Primary Treatment	pass	Metastatic Squamous Neck Cancer With Occult Primary	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/26389364
+Occult Primary Treatment	pass	Metastatic Squamous Neck Cancer With Occult Primary	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437360
+Occupational Therapy	pass	Head and Neck Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435845
+oesophago-gastric cancer care	pass	gastric cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433991
+Olaparib	pass	breast cancer	pass	twitter	https://t.co/Fm0mWGWqx7
+omalizumab	pass	urticaria	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431518
+Omega-3 intake	pass	mucositis	pass	twitter	https://t.co/x2szd4U9t2
+Oncological management	pass	cancer	pass	twitter	https://t.co/hPc9m3aIZX
+Online test	pass	anxiety disorder	pass	twitter	https://t.co/Lu2WY5qJzp
+Open Cranial Vault Remodeling	pass	Craniosynostosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438206
+Open source modular ptosis crutch	pass	myasthenia gravis	pass	twitter	https://t.co/bvSXdgysUD
+oral submucous fibrosis	fail	oral submucous fibrosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428570
+oriented therapy	pass	cerebral palsy	pass	twitter	https://t.co/qWKP26otMA
+Our laser machines	pass	Rosacea	pass	twitter	https://t.co/3xvLCz0KrU
+Oxidative stress	pass	Alzheimer's disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436240
+oxygen therapy	pass	myocardial infarction	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436868
+pacemakers	pass	sick sinus syndrome	pass	twitter	https://t.co/snlA69uZGM
+Pain Exposure Physical Therapy	pass	complex regional pain syndrome	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430970
+palliative care	pass	Parkinson's disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436747
+Palliative Therapy	pass	Neuroendocrine Carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435905
+Papaya	pass	heart disease	pass	twitter	https://t.co/LwVK4qtGxu
+Parsatuzumab	pass	Lung Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438092
+PD-1	pass	Carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428637
+PD-1/PD-L1 Inhibitors	pass	Lung Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433902
+PD-1/PD-L1 therapy	pass	metastatic renal cell carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437040
+Pediatric	fail	Cystic Fibrosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429040
+Percutaneous Coronary Intervention	pass	Diabetes	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428458
+percutaneous coronary intervention	fail	atrial fibrillation	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435272
+Performance	fail	Parkinson's disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436728
+perinatal depression treatment	pass	depression	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429427
+Person-Centered Integrated Care	pass	Chronic Kidney Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438975
+Personalised Liquid Biopsies	pass	Carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430506
+personalized medicine	pass	obesity	pass	twitter	https://t.co/h0suSIOk8M
+Personalized reading intervention	pass	Down syndrome	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429497
+PET-CT imaging	pass	head and neck cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432656
+PHASE	fail	LIVER CANCER	pass	twitter	https://t.co/l21FSxB0sO
+Physical Activity	pass	Coronary Artery Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437600
+Planned neck dissection	pass	head and neck squamous cell carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429177
+plasma exchange	pass	sepsis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433093
+PLCŒ≥1	pass	osteoarthritis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435116
+pneumonia	fail	pneumonia	pass	twitter	https://t.co/lAmNbsvEOg
+Pomegranate supplementation	pass	stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433376
+poor prognosis	fail	lung adenocarcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434849
+Positron Emission Tomography Imaging	pass	Myeloid Sarcoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430131
+Postoperative Radiation Therapy	pass	Endometrial Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431001
+Postoperative Radiotherapy	pass	Oral Squamous Cell Carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438656
+Potential #therapy	pass	cancer	pass	twitter	https://t.co/s5226WjWod
+Potential Candidates	fail	Autism Spectrum Disorder	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428674
+PPAR-Œ± Agonist	pass	Hyperglycemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433142
+Practical Dietary Recommendations	pass	alcoholic Fatty Liver	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438460
+PRC1	pass	lung cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435157
+prediction	fail	squamous cell carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435069
+pregnancy	fail	spina bifida	pass	twitter	https://t.co/xSX2bimHWL
+preoperative serum carcinoembryonic antigen and cancer antigen 15-3 levels	pass	breast cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433529
+previous gastric surgery	pass	Obesity	pass	twitter	https://t.co/VDUGS07nD7
+Proactive approaches	pass	dementia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431130
+Proactive multi-modality treatment	pass	Neuroendocrine Tumours	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433805
+ProscaVax	pass	cancer	pass	twitter	https://t.co/n77HL2Ejus
+Prospective Randomized	fail	Prostate Cancer	pass	twitter	https://t.co/yHcOVyixAQ
+prostate cancer	fail	prostate cancer	pass	twitter	https://t.co/OjVIUfta6m
+prostratin	pass	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435066
+protein	pass	Chagas disease	pass	twitter	https://t.co/Zxl69NR7cb
+Proton beam cancer treatment	pass	cancer	pass	twitter	https://t.co/iC74wAIG1x
+Proton Beam Therapy	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431964
+proton therapy	pass	Cancer	pass	twitter	https://t.co/PDyTW3RXHr
+PRRT treatment	pass	cancer	pass	twitter	https://t.co/Trnh4eedzm
+psychotropic drug use	pass	dementia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432518
+pulmonary function	pass	bronchiectasis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429220
+Purkinje neuron degeneration	fail	cerebellar ataxia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432535
+Quick and easy fix	pass	varicocele	pass	twitter	https://t.co/vMOUKjMY2U
+radiation therapy	pass	Cancer	pass	twitter	https://t.co/mJLsc8zDRJ
+Radiation therapy	pass	cancer	pass	twitter	https://t.co/sVJpPgxFTr
+radiation therapy	pass	cancer	pass	twitter	https://t.co/5R1G1HDudV
+radiation therapy	pass	malignant mesothelioma	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435293
+radical prostatectomy	pass	prostate cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434671
+radiofrequency thermocoagulation	pass	trigeminal neuralgia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429255
+Radioisotope Therapy	pass	Prostate Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435457
+Radiotherapy	pass	Hepatocellular Carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439305
+Ranolazine treatment	pass	coronary artery disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432398
+Rapamycin	pass	allergic conjunctivitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432811
+rapamycin	pass	pancreatic cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434877
+Rapamycin	pass	lymphangioleiomyomatosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438097
+rat liver transplantation	pass	ischemia	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428575
+receptor 1 antagonism	pass	abdominal aortic aneurysm	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432192
+receptor targeted therapies	pass	pancreatic cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435118
+Recombinant ApxIV protein	pass	pleuropneumonia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431246
+Recommendations	pass	Niemann-Pick disease type C	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431164
+reconsideration	fail	Schizophrenia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438921
+recurrence	fail	cervical cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435288
+Reinduction Chemotherapy	pass	Acute Myeloid Leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433979
+reliever medications	pass	asthma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433489
+remote paraffin injections	pass	lipogranuloma	pass	twitter	https://t.co/7k4sRmQSPK
+Repeat Cultures	pass	Keratitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438654
+Repetitive transcranial magnetic stimulation	pass	depression	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431126
+research	fail	kidney disease	pass	twitter	https://t.co/Ck8UfeA6Rz
+Resources	fail	panic disorder	pass	twitter	https://t.co/fulOHaPbW0
+resveratrol	pass	diabetes mellitus	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436859
+Retigeric acid B	pass	prostate cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435013
+retrohepatic vena cava reconstruction	pass	alveolar echinococcosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433881
+Rhythm	fail	Atrial Fibrillation	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436194
+Rio de Janeiro	fail	Parkinson's disease	pass	twitter	https://t.co/KyIeC89Vcl
+Roche	pass	hemophilia A	pass	twitter	https://t.co/N1Qur7RAw7
+Rs	fail	cancer	pass	twitter	https://t.co/L7VvOny8FN
+saracatinib	pass	ovarian cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435137
+sbrt	fail	prostate cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436852
+School assistance	pass	attention deficit hyperactivity disorder	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435966
+Scientists	fail	influenza	pass	twitter	https://t.co/l6Z1sxHduk
+Screening	pass	cancer	pass	twitter	https://t.co/NQ3BG7rlmb
+Screening	pass	lung cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435060
+Screening program	pass	ovarian cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433824
+Second-Line Therapy	pass	Type 2 Diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431957
+Self-management	pass	bipolar disorder	pass	twitter	https://t.co/K6ESfUP227
+self-management support	pass	arthritis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438608
+Separate OPD	pass	cancer	pass	twitter	https://t.co/qBEI0DJhpR
+serum microRNA-9-5p	pass	lung cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430184
+several rapid diagnostic assays	pass	candidiasis	pass	twitter	https://t.co/0KMXBqWee6
+SFCE	fail	rectal cancer	pass	twitter	https://t.co/AxIdePut1y
+SGLT2 Inhibitors	pass	Kidney Disease	pass	twitter	https://t.co/c3hUYNzmjx
+Shen Guo Lao Nian Granule	pass	Common Cold	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430253
+Sheng-Yu-Tang	pass	Leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431027
+Short term doxycycline treatment	pass	myocardial infarction	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432443
+short-term treatment	pass	schizophrenia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429138
+Shuganyin decoction	pass	irritable bowel syndrome	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434653
+Silver Diamine Fluoride	pass	Hypersensitivity	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431959
+simple blood tests	pass	blood cancer	pass	twitter	https://t.co/pc2neqzCgJ
+simple indexes	pass	alcoholic fatty liver	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434074
+sitagliptin	pass	type 2 diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436761
+skills	fail	cerebral palsy	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431140
+SKMCH	pass	cancer	pass	twitter	https://t.co/aitH1kCxwM
+Small Cell Lung Cancer Treatment	pass	Lung Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/26389347
+solanezumab	pass	Alzheimer	pass	twitter	https://t.co/Riif29Oc7a
+spatial and temporal brain complexity	fail	bipolar disorder	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436701
+specialist cancer surgery	pass	cancer	pass	twitter	https://t.co/M9z8uupOtV
+spine surgery	pass	chordoma	pass	twitter	https://t.co/J8S1uFqBhJ
+staff training	pass	intellectual disability	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436314
+state anxiety	fail	personality disorder	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432511
+statin treatment	pass	Heart Disease	pass	twitter	https://t.co/DdslqU6MjH
+Statin Use	pass	vascular Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431375
+statins	pass	liver disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431526
+Stents	pass	Coronary Artery Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431415
+Steroid pulse therapy	pass	thrombocytopenia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428565
+subaortic stenosis resection	pass	aortic stenosis	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437237
+Subtraction 3D-FLAIR Imaging	pass	Multiple Sclerosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439125
+successful treatment	pass	hepatitis C infection	pass	twitter	https://t.co/f3FnZYQaWH
+sunitinib	pass	renal cell carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435010
+Supportive Care	pass	Head and Neck Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435847
+Suppression	fail	renal cell carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435132
+supracricoid partial laryngectomy	pass	laryngeal carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429178
+surgery	pass	phaeochromocytoma	pass	twitter	https://t.co/4e9NRKFzbh
+surgery	pass	esophageal carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435301
+surgery	pass	cancer	fail	twitter	https://t.co/mrEbmO7LeR
+surgery	pass	Cauda Equina Syndrome	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432394
+surgery	pass	ovarian cancer	pass	twitter	https://t.co/AJqE4jpu6C
+surgery	pass	carcinoma	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435302
+Surgical Alternative	fail	Intracranial Hypertension	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433168
+surgical treatment	pass	head and neck cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429844
+Survivorship Care	fail	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429145
+Swertisin	pass	diabetes	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428671
+systemic therapy	pass	lung cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435193
+systemic treatments	pass	psoriasis	pass	twitter	https://t.co/xVpXSG8UC9
+tamoxifen treatment	pass	breast cancer	pass	twitter	https://t.co/PZljFfZ5L3
+Targeted Cancer Therapies	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428415
+targeted cancer therapy	pass	cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432805
+Targeted Immunomodulators	pass	Psoriasis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438757
+Targeted Interventions	pass	Premature Menopause	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432587
+Targeted mRNA Therapy	pass	Ornithine Transcarbamylase Deficiency	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433939
+targeted therapies	pass	colorectal cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438965
+targeted therapies	pass	asthma	pass	twitter	https://t.co/L7fphngFyh
+targeted therapies	pass	childhood brain tumor	pass	twitter	https://t.co/oNkczIomAo
+task-specific training	pass	stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436126
+Tertiary Care	pass	Mental Disorder	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29439279
+Tessa Jowell	pass	cancer	pass	twitter	https://t.co/Iz8lEB5Gqa
+Tessa Jowell	pass	cancer	pass	twitter	https://t.co/w26wTSP3MV
+Teva's asthma treatment	pass	asthma	pass	twitter	https://t.co/9a87QwDzR3
+text messaging	pass	asthma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432968
+Thalamic Deep Brain Stimulation Salvages Failed Focused Ultrasound Thalamotomy	pass	Essential Tremor	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433124
+the 13-valent pneumococcal conjugate vaccine	pass	pneumonia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429807
+the adjuvant therapy	pass	melanoma	pass	twitter	https://t.co/0hNuiJRVT4
+the CBD	pass	chronic pain	pass	twitter	https://t.co/MCh0EdDdXC
+the CDK6 inhibitor	pass	gastric cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436583
+the chronic pain	fail	Plantar Fasciitis	pass	twitter	https://t.co/lztAIPJBa4
+the Clinical Social Worker	pass	Head and Neck Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435846
+The constitutively active PKG II mutant	pass	gastric cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434677
+the danger	fail	chronic pain	pass	twitter	https://t.co/vEHCUZF0UU
+the de facto treatment centers	fail	alcohol abuse	pass	twitter	https://t.co/EzdZY9Xsj7
+the Endovascular Treatment	pass	Intracranial Aneurysm	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437981
+the Fagerstr√∂m test	pass	nicotine dependence	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438887
+the first clinical trial	pass	Chagas disease	pass	twitter	https://t.co/FLUb9rv0wZ
+the first peanut allergy treatment	pass	peanut allergy	pass	twitter	https://t.co/2k3MXR3Uao
+the front line	fail	Lassa fever	pass	twitter	https://t.co/pIbS2X9XXN
+the goal	fail	macroglobulinemia	pass	twitter	https://t.co/uDWDcxwSkS
+the green tea molecule	pass	virus infection	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429035
+the human frontal cortex	pass	Alzheimer's disease	pass	twitter	https://t.co/PFjDk9vXMn
+the Human Papilloma Virus Vaccine	pass	Amyotrophic Lateral Sclerosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434138
+the Impact	fail	Head and Neck Squamous Cell Carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436278
+the intensive treatment	pass	eating disorder	pass	twitter	https://t.co/KZEe2Q0Fhg
+the Intracellular Imaging	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438102
+The Japanese Clinical Practice Guidelines	pass	Septic Shock	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435330
+The Jing Method	pass	chronic pain	pass	twitter	https://t.co/4uD5R8G6pp
+the most difficult #cancer treatments	pass	cancer	pass	twitter	https://t.co/6fnwaNRdjz
+the n-6 polyunsaturated fatty acid linoleic acid	pass	rheumatoid arthritis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436473
+the neurointerventionalist	pass	stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436505
+the Neutrophil Elastase	pass	Atherosclerosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437605
+the novel	fail	hepatoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432786
+the novel susceptibility loci	pass	prostate cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434975
+the oncogenic transcription factor	pass	chronic lymphocytic leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432497
+the Optimal Algorithm	pass	Parkinson's Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434635
+the pharmacological treatment	pass	multiple sclerosis	pass	twitter	https://t.co/3bU2kJ8sEQ
+the Phenylketonuria Screening Program	pass	Phenylketonuria	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436795
+the ProMisE Molecular Classifier	pass	Endometrial Carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432521
+the psychosocial intervention STrAtegies	pass	dementia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430791
+the PURE-4 scale	pass	Psoriatic arthritis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430720
+the right treatment	pass	anxiety disorder	pass	twitter	https://t.co/g1fpFsGLtH
+the Safety	fail	Diphtheria	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438562
+the search	fail	adenocarcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429625
+the TOP 5 program	pass	dementia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432396
+the Vestibular Evoked Myogenic Potential Test	pass	Meniere's Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436794
+the wait	fail	malaria	pass	twitter	https://t.co/AnsdbQxZuB
+the Way	fail	Breast Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438689
+the World Health Organization's algorithm	pass	tuberculosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433509
+the-shelf	fail	cancer	pass	twitter	https://t.co/9peMsVoKND
+Their Cytotoxicity	fail	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438356
+Therapeutic Angiogenesis	pass	Peripheral Artery Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430558
+Therapeutic Anticoagulation	pass	Pulmonary Embolism	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428851
+therapeutic approaches	pass	skin disease	pass	twitter	https://t.co/OUaqBEATX1
+Therapeutic strategies	pass	bladder cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429376
+These non-drug methods	pass	Alzheimer's disease	pass	twitter	https://t.co/cseZoDqqZZ
+These non-drug methods	pass	Alzheimer's disease	pass	twitter	https://t.co/YbIvRjfixr
+These non-drug methods	pass	Alzheimer's disease	pass	twitter	https://t.co/V5RS8qMZKi
+these techniques	pass	Arthritis	pass	twitter	https://t.co/i0psMjowni
+Third Space Endoscopy	pass	Esophageal Disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435819
+this platform	pass	hypertension	pass	twitter	https://t.co/CnKHzcSXn3
+thoracic surgery	pass	tracheal stenosis	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429553
+three first-line therapies	pass	lung cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434678
+throat cancer treatment	pass	cancer	pass	twitter	https://t.co/XXwUAiRlOw
+ticks	pass	heart disease	pass	twitter	https://t.co/hq6FnT0PTm
+tissue-selecting technique	pass	hemorrhoid	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435793
+TMP/SMX prophylaxis	pass	rheumatic disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437584
+TMS	pass	Dementia	pass	twitter	https://t.co/3ct7FJQDZ4
+TMS Therapy	pass	mood disorder	pass	twitter	https://t.co/dQIwcHyDbG
+TMS Therapy	pass	mood disorder	pass	twitter	https://t.co/Rktocsnwyu
+Tocilizumab Monotherapy	pass	Rheumatoid Arthritis	pass	twitter	https://t.co/XCp6j3JoC9
+tomography myocardial perfusion	pass	ischemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433968
+Tomography-computed Tomography	pass	Polymyositis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430120
+top	fail	iodine deficiency	pass	twitter	https://t.co/uGG5LsUqAR
+tramadol	pass	neurotoxicity	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433564
+Trametinib	pass	Lung Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438093
+transcatheter	fail	mitral regurgitation	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430784
+Transient Continuous Hemodiafiltration	pass	Acute Kidney Injury	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434130
+Transverse Myelitis treatments	pass	Myelitis	pass	twitter	https://t.co/OJNNdyHkk2
+trauma-focused treatment	pass	psychosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436320
+treatment adherence	pass	tuberculosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431235
+treatment algorithm	pass	tongue cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432642
+treatment restrictions	fail	hepatitis C	pass	twitter	https://t.co/qx86MbjqcO
+Tumor Burden	fail	Diffuse Large B-Cell Lymphoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428948
+tumor imaging	pass	multiple myeloma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431555
+tumorigenesis	fail	colorectal cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429755
+tumorigenesis	fail	breast cancer	pass	twitter	https://t.co/8O2bueROmK.
+TumorSpecific TCells	pass	Hodgkin Lymphoma	pass	twitter	https://t.co/tQEtCMXIDF
+Type-5 Combination Therapy	pass	Hepatocellular Carcinoma	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435900
+tyrosine	fail	acute lymphoblastic leukemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434033
+UConn Health	pass	Prader-Willi syndrome	pass	twitter	https://t.co/IsgoiJSirp
+UCSF-led clinical trial model	pass	cancer	pass	twitter	https://t.co/W57ZpVBRsh
+UCSF-led clinical trial model	pass	breast cancer	pass	twitter	https://t.co/LkOCIvnxP1
+ultrasonography	pass	gastric cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435750
+ultrasonography	pass	pneumothorax	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433802
+Ultrasonography-guided Fine Needle Aspiration	pass	Pancreatic Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434140
+Ultrasound-Assisted Catheter-Directed Thrombolysis	pass	Pulmonary Embolism	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436310
+Ultraviolet Light therapy	pass	arthritis	pass	twitter	https://t.co/rFd5R8Xsmy
+Ultraviolet Light therapy	pass	arthritis	pass	twitter	https://t.co/kIH4hZTiW0
+Updated recommendations	pass	Cancer	fail	twitter	https://t.co/No84dAaFcb
+upfront esophagectomy	pass	esophageal cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428700
+upper abdominal surgery	pass	pneumonia	pass	twitter	https://t.co/NumhqjZg81
+Ureter Treatment	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437367
+Ureter Treatment	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437347
+Ureter Treatment	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/26389285
+Urinary DNA Methylation Biomarkers	pass	Prostate Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428633
+vaccine	pass	dyslipidemia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438441
+vaccine	pass	diarrhea	pass	twitter	https://t.co/m0F2lvAdpu
+vagal nerve stimulator implantation	pass	epilepsy	pass	twitter	https://t.co/iQF3WWROGS
+validation	fail	gastric cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29433585
+Validity	fail	Stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29434422
+Vascular Headache	fail	migraine	pass	twitter	https://t.co/EFCMZCtLRM
+Versus Concomitant Chemotherapy	pass	Cervical Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29432076
+Vibrational Plate Therapy	pass	Parkinson's Disease	pass	twitter	https://t.co/0qvYn88NJw
+Victoria's medical cannabis trial	pass	epilepsy	pass	twitter	https://t.co/dKZ0ffGZqw
+Victoria's medical cannabis trial	pass	epilepsy	pass	twitter	https://t.co/Fc64BkTVCv
+Victoria's medical cannabis trial	pass	epilepsy	pass	twitter	https://t.co/fTocFQPfIL
+Victoria's medical cannabis trial	pass	epilepsy	pass	twitter	https://t.co/U1a491K52x
+Video-Assisted Thoracoscopic Surgery	pass	Lung Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29430426
+Vinegar	pass	inflammatory bowel disease	pass	twitter	https://t.co/lBQobbkn0i
+Viral gene therapy	pass	cancer	pass	twitter	https://t.co/BjOFDK4hWK
+Viral gene therapy	pass	cancer	pass	twitter	https://t.co/E6OxAI0Hli
+Virtual-reality-assisted therapy	pass	psychosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429949
+Virtual-reality-based cognitive behavioural therapy	pass	psychotic disorder	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429948
+Vision-Related Measurements	pass	Multiple Sclerosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29438265
+visual cues	pass	Parkinson's disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29431890
+vitamin A	pass	pneumonia	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29429465
+Vitro Methods	pass	Cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435931
+vonoprazan	pass	reflux esophagitis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435273
+Wave intensity	pass	hypertension	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435641
+web-based cognitive-behavioural therapy	pass	chronic fatigue syndrome	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29436329
+weekly paclitaxel chemotherapy	pass	hypersensitivity	fail	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435713
+weight loss surgery	pass	eating disorder	pass	twitter	https://t.co/wyH7AXjWAU
+weight loss surgery	pass	heart disease	pass	twitter	https://t.co/E547XxPOUh
+Weight-based treatment	pass	Obesity	pass	twitter	https://t.co/rECtMrud5i
+white race	pass	non-alcoholic fatty liver disease	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29437160
+WIF1 methylation	pass	colorectal cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435185
+Wikipedia	pass	multiple sclerosis	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29428464
+X-ray irradiation	pass	prostate cancer	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435417
+YiQiFuMai Powder Injection	pass	Stroke	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435096
+yoga	pass	asthma	pass	twitter	https://t.co/coaEN0h6UF
+yoga	pass	cancer	pass	twitter	https://t.co/GMESXSBo7U
+your acne treatment	fail	acne	pass	twitter	https://t.co/Djfm7p0WVo
+Yunnan traditional medicines	pass	hepatitis C	pass	PubMed	https://www.ncbi.nlm.nih.gov/pubmed/29435894
+Zebrafish study	pass	autism spectrum disorder	pass	twitter	https://t.co/ywrvfWRJsg
+vitro-Fertilization	pass	infertility	pass	twitter	https://t.co/xwIHd8A00J
+pharmacological interventions	pass	prostatitis	pass	twitter	https://t.co/Zig8PSfspO
