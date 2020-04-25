@@ -20,7 +20,8 @@ For each test case, a link to the original text source is provided.
 
 # Results
 
-|Named treatment                                      |Test|Named disease     |Test|Source|Link                                        |
-|-----------------------------------------------------|----|------------------|----|------|--------------------------------------------|
-|(125)I particles brachytherapy                       |pass|bladder cancer    |pass|PubMed|https://www.ncbi.nlm.nih.gov/pubmed/29435083|
-|(18)F-Fluorodeoxyglucose Positron Emission Tomography|pass|Adrenal Rest Tumor|pass|PubMed|https://www.ncbi.nlm.nih.gov/pubmed/29430117|
+| Item | Pass | Fail  | Score |
+| ------------- |-------------| -----|--------|
+| Treatment| 692 | 139 | 0.83 |
+| Disease| 802 | 29 | 0.96 |
+| NER | 1494| 168 | 0.89 |
