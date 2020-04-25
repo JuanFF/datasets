@@ -21,7 +21,6 @@ For each test case, a link to the original text source is provided.
 # Results
 
 | Item | Pass | Fail  | Score |
-| ------------- |-------------| -----|--------|
 | Treatment| 692 | 139 | 0.83 |
 | Disease| 802 | 29 | 0.96 |
 | NER | 1494| 168 | 0.89 |
